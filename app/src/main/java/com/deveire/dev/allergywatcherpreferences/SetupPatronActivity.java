@@ -121,7 +121,8 @@ public class SetupPatronActivity extends FragmentActivity implements DownloadCal
     private boolean pingingServer;
 
     //private final String serverIP = "http://34.251.66.61:9080/InstructaConServlet/AWServlet";
-    private final String serverIP = "http://192.168.1.188:8080/InstructaConServlet/AWServlet";
+    //private final String serverIP = "http://192.168.1.188:8080/InstructaConServlet/AWServlet";
+    private final String serverIP = "http://34.251.66.61:9080/AWServlet";
     //private final String serverIPAddress = "http://api.eirpin.com/api/TTServlet";
     private String serverURL;
     private NetworkFragment aNetworkFragment;
